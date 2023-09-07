@@ -56,7 +56,7 @@
    melting: fully intact duplex or completely dissociated single
    strands. */
 #ifndef THAL_MAX_ALIGN
-#define THAL_MAX_ALIGN 60
+#define THAL_MAX_ALIGN 100
 #endif
 
 /* The maxium length of the other sequence in a thermodynamic
